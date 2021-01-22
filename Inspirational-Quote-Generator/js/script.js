@@ -1,16 +1,12 @@
-/******************************************
-Treehouse FSJS Techdegree:
-project 1 - A Random Quote Generator
-by - Murray Fenstermaker
-******************************************/
+/*
+ app by me Edine Noella
+*/
 
 
 /*** 
  * `quotes` array 
 ***/
-//yeah, i admit the app is not mine
-// but is for practicing how to use github 
-//don't get wrong ideas, am not that king of person
+
 var quotes = [
   { quote: "I have been studying the traits and dispositions of the 'lower animals' (so called) and contrasting them with the traits and dispositions of man. I find the result humiliating to me.", source: "Mark Twain", citation: "Letters From Earth", tags: ['#TwainMan', '#FreightTwain']},
   { quote: 'Go so far away that you stop being afraid of not coming back.', source: 'Eve Ensler', citation: 'I Am an Emotional Creature: The Secret Life of Girls Around the World', year: 2010},
